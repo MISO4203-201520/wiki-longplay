@@ -107,7 +107,7 @@ La comunicación en el grupo se realizará por medio de:
 ### Calidad del Código
 En esta sección se analiza el código de la aplicación actual haciendo uso de la herramienta SonarQube.
 #### Documentación
-![](http://i.minus.com/iboQW2WxumwzpI.PNG)
+![](src/img/001.PNG?raw=true)
 
 En cuanto a documentación, podemos ver que el aplicativo tiene 71.4% de documentación. Esto quiere decir que la mayoría de las clases tienen en su definición una documentación mínima acerca de las funcionalidades que ofrecen. Analizando las clases que no se encuentran documentadas, encontramos que la mayoría son Interfaces utilizadas en el aplicativo.
 #### Líneas de Código
