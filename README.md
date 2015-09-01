@@ -111,22 +111,22 @@ En esta sección se analiza el código de la aplicación actual haciendo uso de 
 
 En cuanto a documentación, podemos ver que el aplicativo tiene 71.4% de documentación. Esto quiere decir que la mayoría de las clases tienen en su definición una documentación mínima acerca de las funcionalidades que ofrecen. Analizando las clases que no se encuentran documentadas, encontramos que la mayoría son Interfaces utilizadas en el aplicativo.
 #### Líneas de Código
-![](http://i.minus.com/ibfbjsw6NAybKz.PNG)
+![](src/img/002.PNG?raw=true)
 
 Analizando las líneas de código, podemos ver que se trata de un proyecto relativamente pequeño, el cual contiene 64 archivos repartidos en 17 directorios. La gran mayoría del código hace parte de clases Java, mientras que una pequeña porción está destinada a la parte Web de la aplicación.
 #### Duplicados
-![](http://i.minus.com/iBZUOwujcoDrS.PNG)
+![](src/img/003.PNG?raw=true)
 
 En cuanto a los duplicados, podemos ver que hay 15.1% de duplicado en 15 archivoss, esto quiere decir bloques que tienen más de 10 línes que se repiten a lo largo de todo el código.
 #### Complejidad
-![](http://i.minus.com/iTIbQE9aCokcM.PNG)
+![](src/img/004.PNG?raw=true)
 
 Por otro lado, analizando la complejidad podemos ver que en general los métodos de la aplicación son poco complejos, teniendo una media de 1,9.
 #### Deuda Técnica
-![](http://i.minus.com/iXxenXScjdRYH.PNG)
+![](src/img/005.PNG?raw=true)
 
 En cuanto a la deuda técnica, podemos ver que es baja, teniendo un total de 86 evidencias. Analizando en detalle las evidencias, encontramos que las Críticas se debe a excepciones que no tienen Log o no son manejadas de forma adecuada (un total de 7). Por otro lado, en cuanto a evidencias Mayores encontramos duplicados en el código y ciertos warnings que pueden ser resueltos utilizando @Override. Finalmente, en cuanto a evidencias Menores, se encuentra la mala utilización de variables cuyas instancias pueden ser retornadas sin tener que ser asignadas a una variable temporal.
 
-![](http://i.minus.com/iJGNzBQevH7BN.PNG)
+![](src/img/006.PNG?raw=true)
 
 Analizando la pirámide de deuda técnica, encontramos que la mayoría de las evidencias hacen parte de la mantenibilidad y modificabilidad del aplicativo, aunque en confibabilidad tenemos una deuda técnica del 100%.
