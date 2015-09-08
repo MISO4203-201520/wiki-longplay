@@ -154,23 +154,46 @@ Analizando la pirámide de deuda técnica, encontramos que la mayoría de las ev
 ##### Ciclo 1 Semana 1
 | Tarea                                                   | Integrante  | Tiempo Estimado | Tiempo Real |
 |---------------------------------------------------------|-------------|-----------------|-------------|
-| Subir el documento al repositorio de la Wiki            | Jorge       | 10min.          |             |
+| Subir el documento al repositorio de la Wiki            | Jorge       | 10min.          | 30min.      |
 | Revisión individual de la Arquitectura.                 | Todos       | 30min.          |             |
 | Desplegar la aplicación en la máquina virtual           | Todos       | 120min.         |             |
-| Hacer el prototipo de diagrama de Funcional. (Cacoo)    | Camilo      | 60min.          |             |
-| Hacer el prototipo de diagrama de Despliegue. (Cacoo)   | Viviana     | 60min.          |             |
-| Hacer el prototipo de diagrama de Desarrollo. (Cacoo)   | Juan Daniel | 60min.          |             |
-| Definición de requerimientos actuales en la aplicación. | Jorge       | 60min.          |             |
-| Analizar los resultados de SonarQube.                   | Juan David  | 60min           |             |
+| Hacer el prototipo de diagrama de Funcional. (Cacoo)    | Camilo      | 60min.          | 55min.      |
+| Hacer el prototipo de diagrama de Despliegue. (Cacoo)   | Viviana     | 60min.          | 60min.      |
+| Hacer el prototipo de diagrama de Desarrollo. (Cacoo)   | Juan Daniel | 60min.          | 60min.      |
+| Definición de requerimientos actuales en la aplicación. | Jorge       | 60min.          | 60min.      |
+| Analizar los resultados de SonarQube.                   | Juan David  | 60min           | 40min.      |
 
 ##### Ciclo 1 Semana 2
-| Tarea                                                   | Integrante  | Tiempo Estimado | Tiempo Real |
-|---------------------------------------------------------|-------------|-----------------|-------------|
-| R1                                                      | Juan Daniel | 170min.         | 300min.     |
-| Realizar backend entidad PurchaseDetail                               | 30min.          | 40min.      |
-| Realizar backend entidad Purchase                                     | 60min.          | 60min.      |
-| Realizar frontend pagos                                               | 60min.          | 180min.     |
-| Realizar pruebas                                                      | 20min.          | 20min.      |
+| Tarea                                                                                                 | Integrante  | Tiempo Estimado | Tiempo Real |
+|-------------------------------------------------------------------------------------------------------|-------------|-----------------|-------------|
+| R1                                                                                                    | Juan Daniel | 170min.         | 300min.     |
+| Realizar backend entidad PurchaseDetail                                                                             | 30min.          | 40min.      |
+| Realizar backend entidad Purchase                                                                                   | 60min.          | 60min.      |
+| Realizar frontend pagos                                                                                             | 60min.          | 180min.     |
+| Realizar pruebas                                                                                                    | 20min.          | 20min.      |
+| R2                                                                                                    | Viviana     | 330min.         | 510min.     |
+| Backend Comment: Adicionar la lógica y la persistencia para la nueva entidad Comment.                               | 60min.          | 60min.      |
+| Frontend Comment: View: Ajustar el template de catálogo.                                                            | 60min.          | 120min.     |
+| Frontend Comment: Ctrl: Crear un controlador.                                                                       | 60min.          | 120min.     |
+| Frontend Comment: Srv: Crear un nuevo servicio                                                                      | 60min.          | 120min.     |
+| API Rest Comment: Crear un nuevo servicio Rest que permita registrar un nuevo comentario                            | 60min.          | 60min.      |
+| Realizar prueba unitarias                                                                                           | 30min.          | 30min.      |
+| R3                                                                                                    | Camilo      | 50min.          | 32min.      |
+| Stormpath: Admin Role                                                                                               | 10min.          | 5min.       |
+| BackEnd:Client & Provider Logic                                                                                     | 20min.          | 10min.      |
+| BackEnd: IClient & IProvider Interface                                                                              | 5min.           | 2min.       |
+| BackEnd: (User) Client & Provider Services                                                                          | 10min.          | 10min.      |
+| BackEnd: CrudPersistence                                                                                            | 5min.           | 5min.       |
+| R4                                                                                                    | Jorge       | 120min.         | 270min.     |
+| BackEnd: Entidades                                                                                                  | 20min.          | 30min.      |
+| BackEnd: Logica                                                                                                     | 20min.          | 30min.      |
+| BackEnd: Servicios                                                                                                  | 20min.          | 30min.      |
+| FrontEnd: Template                                                                                                  | 30min.          | 120min.     |
+| FrontEnd: Logica                                                                                                    | 30min.          | 60min.      |
+| R6                                                                                                    | Juan David  | 60min.          | 75min.      |
+| Persistencia: Agregar descuento al LongPlayEntity y que el cambio se vea reflejado en la DB                         | 20min.          | 35min.      |
+| Backend: Ajustar el modelo y las conversiones de DTOs                                                               | 20min.          | 14min.      |
+| Frontend: Ajustar el modelo de AngularJS y mostrar el nuevo campo en la vista                                       | 20min.          | 26min.      |
 
 ##### Conclusiones Ciclo 1
 * Comenzar a hacer:
