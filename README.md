@@ -211,3 +211,51 @@ Analizando la pirámide de deuda técnica, encontramos que la mayoría de las ev
 * Dejar de hacer:
 * Menos de:
   *  Reuniones rápidas y sin socialización
+
+#### Ciclo 2
+##### Requerimientos Ciclo 2
+| Tarea | Integrante | Justificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Tiempo Estimado | Tiempo Real |
+|-------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|-------------|
+| R5    | Viviana    | Dado que en este sitio web los clientes pueden comprar, se genera mayor valor a la aplicación si se ofrece la posibilidad de buscar productos más baratos que se puedan vender. Adicionalmente, se agregaría usabilidad a la aplicación. Un cliente que realice una compra después de buscar un producto a través de esta funcionalidad, seguramente la volverá a usar.                                                                                                       |                 |             |
+| R8    | Jorge      | Se evidencia la necesidad de complementar la información del catálogo con la información detallada del LP como es (nombre, precio, año, stock) además con información de las canciones que lo componen. Esto permitirá al usuario aficionado conocer mejor el producto, aumentará el interés por los artículos y reduciría la carga operativa del coleccionista contestando preguntas sobre los LP.                                                                           |                 |             |
+| R10   | Camilo     | La correcta navegación en la aplicación le aporta a la aplicación usabilidad, ya que se puede validar que los diferentes tipos de usuario tengan acceso, solo a las opciones habilitadas para su rol, y permite que tareas que dependen de otras, puedan hacerse más fácilmente por otros desarrolladores sin tener que depender de saber URIs de acceso a recursos de la aplicación.                                                                                         |                 |             |
+| R14   | Juan David | Pensando en la funcional del proveedor, creemos que es importante para este ciclo mostrar las compras realizadas a un proveedor para que ésta las peuda gestionar, funcionalidades que se desarrollarán en el siguiente ciclo.                                                                                                                                                                                                                                                |                 |             |
+| R15   | Juan Daniel| Decidimos que para este ciclo ya era importante empezar a pensar en los reportes de la aplicación, asi que ahora el usuario podrá ver las compras realizadas.                                                                                                                                                                                                                                                                                                                 |                 |             |
+
+##### Conclusiones Ciclo 2
+* Comenzar a hacer:
+  *  Utilizar las opciones avanzadas de YouTrack para afinar los tiempos de estimación.
+  *  Detallar los requerimientos en tareas más pequeñas
+  *  Revisar la deuda técnica de Sonar para mejorar la calidad del proyecto.
+* Más de:
+  *  Reuniones más seguidas de los pendientes del trabajo
+  *  Afianzar la comunicación y el trabajo en equipo.
+  *  Reunión física del grupo.
+  *  Reuniones por Skype para seguimiento del trabajo.
+  *  Apoyar las actividades de los compañeros
+* Seguir haciendo:
+  *  Trabajar en equipo
+  *  Utilizar herramientas de colaboración como Google Drive
+  *  Revisar periódicamente los cambios en el moodle
+* Dejar de hacer:
+  *  Comprometernos con horarios de reuniones en las que no podemos estar.
+  *  Esperar a último momento para pedir ayuda 
+* Menos de:
+  *  Reuniones rápidas y sin socialización
+  *  Ejecución de tareas sin tener la planeación
+  
+##### Plan Mejoramiento
+Para la próxima iteración se espera mejorar en los siguientes aspectos:
+* Reuniones más seguidas de los pendientes del trabajo
+* Afianzar la comunicación y el trabajo en equipo.
+* Reunión física del grupo.
+* Reuniones por Skype para seguimiento del trabajo.
+* Apoyar las actividades de los compañeros
+
+##### Métricas
+###### Valor Ganado
+* Costo Planeado
+![](src/img/ciclo2_costo_planeado.PNG?raw=true)
+
+* Costo Acumulado vs Ganado
+![](src/img/ciclo2_costo_acumulado_vs_ganado.PNG?raw=true)
