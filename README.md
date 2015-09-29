@@ -253,9 +253,13 @@ Para la próxima iteración se espera mejorar en los siguientes aspectos:
 * Apoyar las actividades de los compañeros
 
 ##### Métricas
-###### Valor Ganado
-* Costo Planeado
+###### Costo Planeado
 ![](src/img/ciclo2_costo_planeado.PNG?raw=true)
 
-* Costo Acumulado vs Ganado
+###### Costo Acumulado vs Ganado
 ![](src/img/ciclo2_costo_acumulado_vs_ganado.PNG?raw=true)
+
+###### Error Estimación
+|           | Planeado | Ejecutado | %Error
+| Back End  | 60       | 6.5       | -89%
+| Front End | 20       | 16        | -20%
