@@ -264,3 +264,6 @@ Para la próxima iteración se espera mejorar en los siguientes aspectos:
 |-----------|----------|-----------|--------|
 | Back End  | 60       | 6.5       | -89%   |
 | Front End | 20       | 16        | -20%   |
+
+###### Deuda Técnica
+![](src/img/ciclo2_deuda_tecnica.PNG?raw=true)
