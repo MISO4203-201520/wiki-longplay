@@ -283,9 +283,9 @@ Para la próxima iteración se espera mejorar en los siguientes aspectos:
 * Reuniones por Skype para seguimiento del trabajo.
 * Apoyar las actividades de los compañeros
 
-##### Conclusiones Ciclo 3
+#### Conclusiones Ciclo 3
 
-####### Lineas Código x Requerimiento
+###### Lineas Código x Requerimiento
 
 | Responsable |   Requerimiento   | Front | Servicios | Back | Prueba Back | Pruebas Servicios | Pruebas Front |
 |-------------|-------------------|-------|-----------|------|-------------|-------------------|---------------|
@@ -295,7 +295,7 @@ Para la próxima iteración se espera mejorar en los siguientes aspectos:
 | Camilo      | Ctrl Cambio       |    35 |         0 |   19 |         194 |               132 | -             |
 |             | Req 1             |       |           |      |             |                   |               |
 
-####### Porcentaje de requerimientos completos implementados 
+###### Porcentaje de requerimientos completos implementados 
 
 | REQ/SOLICITUD CAMBIO | Responsable | Estado |
 |----------------------|-------------|--------|
@@ -307,34 +307,34 @@ Para la próxima iteración se espera mejorar en los siguientes aspectos:
 
 Porcentaje de requerimientos completos implementados = 100%
 
-####### Cubrimiento de Pruebas
+###### Cubrimiento de Pruebas
 
 ![](src/c3/007.PNG?raw=true)
 
 Se evidencia que se logro el objetivo de aumentar sobre el 50% el cubrimiento de pruebas con un exito en los test del 100%
 
-####### Metricas
+###### Metricas
 
-####### Costo Planeado
+###### Costo Planeado
 
 En la planeación se incluye los requerimientos ya mencionados, controles de cambios y pruebas unitarias en mayor medida
 YouTrack(http://longplay.myjetbrains.com/youtrack/dashboard)
 
 ![](src/c3/VP.png?raw=true)
 
-####### Costo Acumulado vs Ganado
+###### Costo Acumulado vs Ganado
 
 Se puede observar que las tareas fueron sobrestimadas en mayor medida como lo muestra la gráfica
 
 ![](src/c3/VG.png?raw=true)
 
-####### Plan de mejora para el ciclo 4: los tres puntos más críticos.
+###### Plan de mejora para el ciclo 4: los tres puntos más críticos.
 
 * Planear a tiempo la ejecución de las pruebas, para evitar inconvenientes al final del ciclo y tener mayor cubrimiento de código en las pruebas tanto en el back como en los servicios y front.
 * Comunicar los problemas que se tengan con GitHub al momento de subir cambios y ayudar entre todos a la solución. Esto con el fin de resolver los problemas y no perder trabajo.
 * Subir los tests siempre probados, para no tener problemas con la ejecución del proyecto a nivel local.
 
-####### Objetivos para el ciclo 4 con respecto al producto:
+###### Objetivos para el ciclo 4 con respecto al producto:
 
 * Entender los requerimientos faltantes y realizar asignación de los requerimientos a desarrollar.
 *  Métrica Relacionada = Requerimientos a desarrollar / Requerimientos faltantes * 100.
