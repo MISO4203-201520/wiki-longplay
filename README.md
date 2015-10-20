@@ -336,6 +336,8 @@ YouTrack(http://longplay.myjetbrains.com/youtrack/dashboard)
 
 ![](src/c3/VP.png?raw=true)
 
+https://docs.google.com/spreadsheets/d/1hHDvo6LaYY1dJhJY9RM-u4D4K7Xa-q4GpMsBNGspgMQ
+
 ###### Costo Acumulado vs Ganado
 
 Se puede observar que las tareas fueron sobrestimadas en mayor medida como lo muestra la gráfica
