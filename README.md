@@ -337,15 +337,15 @@ Se puede observar que las tareas fueron sobrestimadas en mayor medida como lo mu
 ###### Objetivos para el ciclo 4 con respecto al producto:
 
 * Entender los requerimientos faltantes y realizar asignación de los requerimientos a desarrollar.
-*  Métrica Relacionada = Requerimientos a desarrollar / Requerimientos faltantes * 100.
+ * Métrica Relacionada = Requerimientos a desarrollar / Requerimientos faltantes * 100.
 
 * Entender los controles de cambio y seleccionar los que se van a desarrollar durante el ciclo para cumplir con las expectativas del cliente.
-*  Métrica Relacionada = Controles de cambio a desarrollar / Total Controles de cambio * 100.
+ * Métrica Relacionada = Controles de cambio a desarrollar / Total Controles de cambio * 100.
 
 * Realizar pruebas unitarias para garantizar la funcionalidad y calidad de los entregables.
-*  Métrica Relacionada = No pruebas unitarias * No de requerimientos desarrollados.
+ * Métrica Relacionada = No pruebas unitarias * No de requerimientos desarrollados.
 
 * Realizar integración continua con Github.
-*  Métrica Relacionada = Version Control System Load Time (Unit of Measurement - Horas / Minutos/ Segundos).
+ * Métrica Relacionada = Version Control System Load Time (Unit of Measurement - Horas / Minutos/ Segundos).
 
 * Realizar el análisis post-mortem y cerrar el proyecto con la aprobación del cliente.
