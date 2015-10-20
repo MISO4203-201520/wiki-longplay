@@ -337,6 +337,7 @@ Porcentaje de requerimientos completos implementados = 100%
 | R14                  | Consultar Ventas Realizadas  | myOrders.tpl.html                                 | purchase.ctrl.js                  | purchase.svc.js                           |                              | PurchaseService.java                                     |                      | PurchaseDTO.java                             | IPurchaseLogic.java PurchaseLogic.java                                    | ClientEntity.java PurchaseEntity.java | PurchaseConverter.java                      | PurchasePersistence.java                        | PurchaseLogicTest.java                      | PurchasePersistenceTest.java                            |
 | R15                  | Consultar Compras Realizadas | myOrders.tpl.html                                 | purchase.ctrl.js                  | purchase.svc.js                           |                              | PurchaseService.java                                     |                      | PurchaseDTO.java                             | IPurchaseLogic.java PurchaseLogic.java                                    | ClientEntity.java PurchaseEntity.java | PurchaseConverter.java                      | PurchasePersistence.java                        | PurchaseLogicTest.java                      | PurchasePersistenceTest.java                            |
 
+
 ###### Cubrimiento de Pruebas
 
 ![](src/c3/007.PNG?raw=true)
