@@ -290,6 +290,8 @@ Para la próxima iteración se espera mejorar en los siguientes aspectos:
 
 #### Conclusiones Ciclo 3
 
+(https://youtu.be/m_VSgfArLck)
+
 ###### Lineas Código x Requerimiento
 
 | Responsable |   Requerimiento   | Front | Servicios | Back | Prueba Back | Pruebas Servicios | Pruebas Front |
