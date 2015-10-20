@@ -283,8 +283,8 @@ Para la próxima iteración se espera mejorar en los siguientes aspectos:
 
 ##### Métricas
 ###### Costo Planeado
-![](src/c3/VP.PNG?raw=true)
+![](src/c3/VP.png?raw=true)
 
 ###### Costo Acumulado vs Ganado
-![](src/c3/VG.PNG?raw=true)
+![](src/c3/VG.png?raw=true)
 
