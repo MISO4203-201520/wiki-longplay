@@ -119,6 +119,8 @@ En cuanto a los duplicados, podemos ver que hay 13.5% de duplicado en 27 archivo
 #### Deuda Técnica
 ![](src/c3/005.PNG?raw=true)
 
+![](src/c3/0051.PNG?raw=true)
+
 En cuanto a la deuda técnica, podemos ver que es baja, teniendo un total de 142 evidencias. Analizando en detalle las evidencias, encontramos que no hay Críticas, Bloqueantes y han bajado en gran manera las mayores.
 
 ![](src/c3/006.PNG?raw=true)
@@ -281,10 +283,69 @@ Para la próxima iteración se espera mejorar en los siguientes aspectos:
 * Reuniones por Skype para seguimiento del trabajo.
 * Apoyar las actividades de los compañeros
 
-##### Métricas
-###### Costo Planeado
+##### Conclusiones Ciclo 3
+
+####### Lineas Código x Requerimiento
+
+| Responsable |   Requerimiento   | Front | Servicios | Back | Prueba Back | Pruebas Servicios | Pruebas Front |
+|-------------|-------------------|-------|-----------|------|-------------|-------------------|---------------|
+| Viviana     | Ctrl Cambio Req 2 |   204 |         0 |   23 |         208 |                   |               |
+| Harold      | Req 13            |   175 |        30 |  293 |             |                   |               |
+| Ivan        | Req 8             |    50 |         0 |   80 |          30 |               107 |               |
+| Camilo      | Ctrl Cambio       |    35 |         0 |   19 |         194 |               132 | -             |
+|             | Req 1             |       |           |      |             |                   |               |
+
+####### Porcentaje de requerimientos completos implementados 
+
+| REQ/SOLICITUD CAMBIO | Responsable | Estado |
+|----------------------|-------------|--------|
+| Control de Cambio R1 | Camilo      | OK     |
+| Control de Cambio R2 | Viviana     | OK     |
+| Control de Cambio R7 | Jorge       | OK     |
+| Control de Cambio R8 | Ivan        | OK     |
+| Requerimiento 13     | Harold      | OK     |
+
+Porcentaje de requerimientos completos implementados = 100%
+
+####### Cubrimiento de Pruebas
+
+![](src/c3/007.PNG?raw=true)
+
+Se evidencia que se logro el objetivo de aumentar sobre el 50% el cubrimiento de pruebas con un exito en los test del 100%
+
+####### Metricas
+
+####### Costo Planeado
+
+En la planeación se incluye los requerimientos ya mencionados, controles de cambios y pruebas unitarias en mayor medida
+YouTrack(http://longplay.myjetbrains.com/youtrack/dashboard)
+
 ![](src/c3/VP.png?raw=true)
 
-###### Costo Acumulado vs Ganado
+####### Costo Acumulado vs Ganado
+
+Se puede observar que las tareas fueron sobrestimadas en mayor medida como lo muestra la gráfica
+
 ![](src/c3/VG.png?raw=true)
 
+####### Plan de mejora para el ciclo 4: los tres puntos más críticos.
+
+* Planear a tiempo la ejecución de las pruebas, para evitar inconvenientes al final del ciclo y tener mayor cubrimiento de código en las pruebas tanto en el back como en los servicios y front.
+* Comunicar los problemas que se tengan con GitHub al momento de subir cambios y ayudar entre todos a la solución. Esto con el fin de resolver los problemas y no perder trabajo.
+* Subir los tests siempre probados, para no tener problemas con la ejecución del proyecto a nivel local.
+
+####### Objetivos para el ciclo 4 con respecto al producto:
+
+* Entender los requerimientos faltantes y realizar asignación de los requerimientos a desarrollar.
+*  Métrica Relacionada = Requerimientos a desarrollar / Requerimientos faltantes * 100.
+
+* Entender los controles de cambio y seleccionar los que se van a desarrollar durante el ciclo para cumplir con las expectativas del cliente.
+*  Métrica Relacionada = Controles de cambio a desarrollar / Total Controles de cambio * 100.
+
+* Realizar pruebas unitarias para garantizar la funcionalidad y calidad de los entregables.
+*  Métrica Relacionada = No pruebas unitarias * No de requerimientos desarrollados.
+
+* Realizar integración continua con Github.
+*  Métrica Relacionada = Version Control System Load Time (Unit of Measurement - Horas / Minutos/ Segundos).
+
+* Realizar el análisis post-mortem y cerrar el proyecto con la aprobación del cliente.
