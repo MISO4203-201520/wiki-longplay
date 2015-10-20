@@ -125,7 +125,7 @@ En cuanto a la deuda técnica, podemos ver que es baja, teniendo un total de 142
 
 Analizando la pirámide de deuda técnica, encontramos que la mayoría de las evidencias hacen parte de la pruebas y modificabilidad del aplicativo, aunque en confibabilidad tenemos una deuda técnica del 100%.
 
-#### Pruebas
+#### Pruebas Unitarias
 ![](src/c3/007.PNG?raw=true)
 
 Se evidencia que se logro el objetivo de aumentar sobre el 50% el cubrimiento de pruebas
@@ -283,16 +283,8 @@ Para la próxima iteración se espera mejorar en los siguientes aspectos:
 
 ##### Métricas
 ###### Costo Planeado
-![](src/img/ciclo2_costo_planeado.PNG?raw=true)
+![](src/c3/VP.PNG?raw=true)
 
 ###### Costo Acumulado vs Ganado
-![](src/img/ciclo2_costo_acumulado_vs_ganado.PNG?raw=true)
+![](src/c3/VG.PNG?raw=true)
 
-###### Error Estimación
-|           | Planeado | Ejecutado | %Error |
-|-----------|----------|-----------|--------|
-| Back End  | 60       | 6.5       | -89%   |
-| Front End | 20       | 16        | -20%   |
-
-###### Deuda Técnica
-![](src/img/ciclo2_deuda_tecnica.PNG?raw=true)
