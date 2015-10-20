@@ -1,8 +1,11 @@
 
 ## MARKETPLACE DE VENTA DE DISCOS DE VINILO COLECCIONABLES
+
 El número de tiendas virtuales de música en Internet se ha incrementado en los últimos tiempos pero cada una busca la forma de diferenciarse para atraer distintos nichos de mercado. En esta aplicación se quiere atraer un público que últimamente ha venido creciendo y despertando gran interés para el mercado: los coleccionadores de discos de vinilo o los antiguos "Long Plays".
 
 ### Roles y Responsabilidades
+
+## Grupo Inicial Ciclo 1 y Ciclo 2
 | Nombres                       | Correo                        | Rol                  |
 |-------------------------------|-------------------------------|----------------------|
 | Baquero Jiménez Camilo        | c.baquero10@uniandes.edu.co   | Desarrollador        |
@@ -10,6 +13,15 @@ El número de tiendas virtuales de música en Internet se ha incrementado en los
 | Bastidas Melo Viviana Angely  | va.bastidas10@uniandes.edu.co | Desarrollador        |
 | Garcia Manrique Juan David    | jd.garcia1381@uniandes.edu.co | Desarrollador        |
 | Patiño Arevalo Juan Daniel    | jd.patino10@uniandes.edu.co   | Desarrollador        |
+
+## Grupo Inicial Ciclo 3
+| Nombres                       | Correo                        | Rol                  |
+|-------------------------------|-------------------------------|----------------------|
+| Baquero Jiménez Camilo        | c.baquero10@uniandes.edu.co   | Desarrollador        |
+| Barrera Salgado Jorge Enrique | je.barrera11@uniandes.edu.co  | Desarrollador, Lider |
+| Bastidas Melo Viviana Angely  | va.bastidas10@uniandes.edu.co | Desarrollador        |
+| Garcia Sanchez Ivan Felipe    | hl.murcia222@uniandes.edu.co  | Desarrollador        |
+| Murcia Romero Harold Leonardo | if.garcia11@uniandes.edu.co   | Desarrollador        |
 
 ### Reglas de Funcionamiento
 #### Reuniones
@@ -23,22 +35,34 @@ La comunicación en el grupo se realizará por medio de:
 * Análisis estático de código con SonarQube de forma periódica para encontrar y resolver los hallazgos críticos.
 * Asignación de pares para verificar, probar e inspeccionar la calidad del código y su integración.
 
-### Mitigación de Riesgos
+### Mitigación de Riesgos:
+
 * Entendimiento del proyecto:
   *  Revisión individual de la arquitectura.
   *  Validación grupal de la arquitectura. (Vista Funcional, Despliegue y Desarrollo).
   *  Revisión de herramientas individual.
   *  Apoyo grupal.
+
 * Entendimiento de requerimientos.
   * Revisión individual del enunciado.
   * Relación con los requerimientos.
   * Validación grupal de requerimientos. (Mockups)
   * Uso del foro del curso.
+
 * Coordinación del equipo:
   * Seguir la estrategia de comunicación definida.
   * Respeto a la definición y cumplimiento de las tareas.
   * Comunicación abierta para pedir apoyo en los diferentes problemas que se presenten.
-  
+
+* Ingreso de  nuevos Integrantes al proyecto:
+  * Involucrar a los nuevos integrantes desde el inicio del nuevo ciclo.
+  * Realizar explicación sobre el proyecto  y los componentes del mismo a nivel técnico y conceptual.
+  * Revisar en conjunto los componentes desarrollados.
+  * Validar en conjunto la experiencia que ya tienen con la tecnología y los componentes desarrollados en el grupo anterior.
+  * Asignar tareas para el nuevo ciclo de acuerdo a las habilidades y el rol que desempeñaron en el grupo anterior.
+  * Compartir las reglas y forma de trabajo del equipo.
+  * Tener una comunicación permanente para identificar los problemas que surjan durante el nuevo ciclo del proyecto.
+
 ### Arquitectura
 #### Vista Funcional
 ![](src/img/vista_funcional.PNG?raw=true)
