@@ -124,11 +124,15 @@ En cuanto a los duplicados, podemos ver que hay 13.5% de duplicado en 27 archivo
 
 En cuanto a la deuda técnica, podemos ver que es baja, teniendo un total de 142 evidencias. Analizando en detalle las evidencias, encontramos que no hay Críticas, Bloqueantes y han bajado en gran manera las mayores.
 
+* Oportunidades de mejora asociadas a la necesidad de refactoring de código que suprima código duplicado.
+* Muchos de los issues existentes están asociados a la necesidad de aumentar el cubrimiento de pruebas.
+* Es importante limpiar el código antes de subirlo a master.
+
 ![](src/c3/006.PNG?raw=true)
 
-Analizando la pirámide de deuda técnica, encontramos que la mayoría de las evidencias hacen parte de la pruebas y modificabilidad del aplicativo, aunque en confibabilidad tenemos una deuda técnica del 100%.
+Analizando la pirámide de deuda técnica, encontramos que la mayoría de las evidencias hacen parte de la pruebas y modificabilidad del aplicativo.
 
-#### Pruebas Unitarias
+#### Cobertura Pruebas Unitarias
 ![](src/c3/007.PNG?raw=true)
 
 Se evidencia que se logro el objetivo de aumentar sobre el 50% el cubrimiento de pruebas
@@ -318,6 +322,8 @@ Porcentaje de requerimientos completos implementados = 100%
 ![](src/c3/007.PNG?raw=true)
 
 Se evidencia que se logro el objetivo de aumentar sobre el 50% el cubrimiento de pruebas con un exito en los test del 100%
+* Avance importante en cobertura de pruebas de backend.
+* Retos importantes en materia de cobertura a nivel de pruebas de servicios y funcionales.
 
 ###### Metricas
 
@@ -355,3 +361,32 @@ Se puede observar que las tareas fueron sobrestimadas en mayor medida como lo mu
  * Métrica Relacionada = Version Control System Load Time (Unit of Measurement - Horas / Minutos/ Segundos).
 
 * Realizar el análisis post-mortem y cerrar el proyecto con la aprobación del cliente.
+
+###### Reflexión grupal estrella de mar
+
+* Comenzar a hacer…
+ *  Poner fechas para tareas administrativas que supongan dependencias con otras tareas.
+ *  Revisar que tan completo es el enunciado del requerimiento o control de cambio que desarrollaremos.
+ *  Revisión más minuciosas del código que se sube a master, para dar cumplimiento a variables como la complejidad, la duplicidad de código, mantenibilidad, documentación, etc.
+ *  Notificación al equipo cuando se suban cambios relevantes al repositorio.
+ *  Automatización de tareas, acompañada de creación de interfaces que permitan reducir la cantidad de código necesario para completar un requerimiento.
+
+* Más de…
+ *  Revisiones de la calidad del código desarrollado
+ *  Pruebas de backend, servicios y funcionales que supongan una mayor cobertura del código desarrollado.
+ *  Comunicar las dificultades que se presenten con el equipo, para así poder encontrar una solución.
+
+* Seguir haciendo…
+ *  Reuniones de planeación y seguimiento y control.
+ *  División organizada y acordada de las tareas a desarrollar.
+ *  Registro de tareas y tiempos de las mismas en youtrack.
+ *  Ser un equipo autogestionado y proactivo.
+
+* Dejar de hacer…
+ *  Acumular trabajo administrativo para el final del ciclo.
+ *  LLegar tarde a las reuniones para sacarles más provecho a las mismas.
+ *  Desarrollar un requerimiento, aún cuando existen dudas.
+
+* Menos de…
+ *  Subestimar una tarea.
+ *  No entregar tareas a tiempo.
