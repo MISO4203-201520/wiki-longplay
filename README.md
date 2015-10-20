@@ -116,10 +116,11 @@ En cuanto a los duplicados, podemos ver que hay 13.5% de duplicado en 27 archivo
 ![](src/c3/004.PNG?raw=true)
 
  Por otro lado, analizando la complejidad podemos ver que en general los métodos de la aplicación son poco complejos, teniendo un total de 709.
+ 
 #### Deuda Técnica
 ![](src/c3/005.PNG?raw=true)
 
-![](src/c3/0051.PNG?raw=true)
+![](src/c3/051.PNG?raw=true)
 
 En cuanto a la deuda técnica, podemos ver que es baja, teniendo un total de 142 evidencias. Analizando en detalle las evidencias, encontramos que no hay Críticas, Bloqueantes y han bajado en gran manera las mayores.
 
