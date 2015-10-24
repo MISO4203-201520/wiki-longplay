@@ -297,7 +297,7 @@ Para la próxima iteración se espera mejorar en los siguientes aspectos:
 | Responsable |   Requerimiento   | Front | Servicios | Back | Prueba Back | Pruebas Servicios | Pruebas Front |
 |-------------|-------------------|-------|-----------|------|-------------|-------------------|---------------|
 | Viviana     | Ctrl Cambio Req 2 |   204 |         0 |   23 |         208 |                   |               |
-| Harold      | Req 13            |   175 |        30 |  293 |             |                   |               |
+| Harold      | Req 13            |   175 |        30 |  293 |          70 |                   |               |
 | Ivan        | Req 8             |    50 |         0 |   80 |          30 |               107 |               |
 | Camilo      | Ctrl Cambio       |    35 |         0 |   19 |         194 |               132 | -             |
 |             | Req 1             |       |           |      |             |                   |               |
