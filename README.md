@@ -20,8 +20,8 @@ El número de tiendas virtuales de música en Internet se ha incrementado en los
 | Baquero Jiménez Camilo        | c.baquero10@uniandes.edu.co   | Desarrollador        |
 | Barrera Salgado Jorge Enrique | je.barrera11@uniandes.edu.co  | Desarrollador, Lider |
 | Bastidas Melo Viviana Angely  | va.bastidas10@uniandes.edu.co | Desarrollador        |
-| Garcia Sanchez Ivan Felipe    | hl.murcia222@uniandes.edu.co  | Desarrollador        |
-| Murcia Romero Harold Leonardo | if.garcia11@uniandes.edu.co   | Desarrollador        |
+| Garcia Sanchez Ivan Felipe    | if.garcia11@uniandes.edu.co   | Desarrollador        |
+| Murcia Romero Harold Leonardo | hl.murcia222@uniandes.edu.co  | Desarrollador        |
 
 ### Reglas de Funcionamiento
 #### Reuniones
