@@ -376,6 +376,23 @@ Se puede observar que las tareas fueron sobrestimadas en mayor medida como lo mu
 
 * Realizar el análisis post-mortem y cerrar el proyecto con la aprobación del cliente.
 
+###### Reflexiones individuales del equipo
+
+Viviana:
+En la retroalimentación de mis compañeros, hay varias reflexiones positivas que debo mantener, sin embargo debo mejorar la comunicación con el equipo de trabajo y solicitar ayuda cuando la necesite sobre todo a nivel técnico. 
+
+Jorge:
+En la retroalimentación se me comunican aspectos positivos, aunque debo ser más juicioso con control al proceso de desarrollo, siendo lider falta realizar tareas de seguimiento más detalladas al mismo tiempo que hallar más espacio de encuentro en el grupo. "Mi compañera Viviana hace énfasis en mejorar la comunicación y que desempeñaria mejor el cargo :P".
+
+Iván:
+Después de haber recibido la retroalimentación por parte de mis compañeros de grupo, me gustaría resaltar que tengo que mejorar un poco en la comunicación con los demás integrantes del grupo, participar más en las reuniones y mostrar más liderazgo. Por otra parte, los compañeros comentan que como nuevo integrante en el grupo me he integrado bien, demuestro interés al equipo y mi desempeño ha sido bueno.
+
+Harold:
+Como reflexión personal y basado en los comentarios de mi grupo de trabajo, es importante que tome una actitud más comunicativa, participativa y de liderazgo con el grupo, de tal forma que mis compañeros puedan sentir que soy un apoyo para ellos con cualquier reto que se presente. Por todo lo demás, me siento a gusto con todos los comentarios positivos recibidos por parte del grupo y con la bienvenida que me han dado luego del cambio de grupos.
+
+Camilo:
+Es muy importante aprender a utilizar las herramientas de control de versiones para poder trabajar en un proyecto de software con varios desarrolladores. Tuve varias complicaciones usando git y esto afectó mi trabajo y el de mis compañeros. Además, debo prestar más atención a detalles de usabilidad que no fueron acordes a la labor que mis compañeros hicieron, con un poco más de dedicación e investigación podría haber aportado con artefactos de mayor calidad al trabajo del equipo.
+
 ###### Reflexión grupal estrella de mar
 
 * Comenzar a hacer…
