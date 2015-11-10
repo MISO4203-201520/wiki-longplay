@@ -301,6 +301,8 @@ Para la próxima iteración se espera mejorar en los siguientes aspectos:
 * Reunión física del grupo.
 * Reuniones por Skype para seguimiento del trabajo.
 * Apoyar las actividades de los compañeros
+ 
+### Ciclo 3
 
 #### Conclusiones Ciclo 3
 
