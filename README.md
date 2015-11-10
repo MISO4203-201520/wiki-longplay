@@ -456,3 +456,32 @@ Es muy importante aprender a utilizar las herramientas de control de versiones p
 |Ivan       |Req 17       |62   |-        |-   |-           |-                |-            |
 |Ivan       |Req 18       |56   |-        |-   |-           |-                |-            |
 
+
+###### Reportar el porcentaje de requerimientos completos implementados 
+
+''Porcentaje de requerimientos completos implementados = 100%''
+
+|Requerimiento|Responsable|Estado|
+|-------------|-----------|------|
+|R16: Presentar el top de los tres álbumes más vendidos en la tienda a la fecha de consulta. El top debe ser visible a primera vista por el usuario.|Harold|Ok|
+|R17: Presentar la opción de compartir en Redes Sociales cada Disco de Vinilo.|Ivan|OK|
+|R18: Presentar el detalle de cada Disco de Vinilo en una ventana emergente de fácil uso. Esto permitirá mejorar la presentación del Catálogo y que el usuario tenga toda la información de un disco en un solo sitio. |Ivan|OK|
+
+
+###### Reportar el desarrollo y cubrimiento de las pruebas
+
+Cobertura Total  = 71,5%
+Cobertura de Líneas = 72,7%
+Éxito De Los Test = 100%
+
+
+###### Reportar los costos de calidad
+
+|Costo Calidad|Esfuerzo (Horas)|
+|-------------|----------------|
+|Costo Conformidades|53,5|
+|Costo No Conformidades|5,3|
+
+
+
+
