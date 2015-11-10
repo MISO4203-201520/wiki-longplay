@@ -503,3 +503,115 @@ En las estimación de ciclo cuatro se encuentran tareas de las distintas etapas 
 
 Luego de la finalización de la tareas del proceso de desarrollo en comparación con nuestro historias de tareas hubo un desfase por sobreestimación de 27% en la planeación del ciclo, cabe resaltar que con respecto a iteraciones pasadas fue una mejora en nuestro proceso. En este ciclo se cumplieron con todas las tareas planeadas. Para el registro de la planeación y seguimiento se utilizó YouTrack en donde se registra la trazabilidad de las tareas realizadas [Youtrack](http://longplay.myjetbrains.com/youtrack)
 
+##### Reflexión de la estrella de mar
+
+###### Reflexión individual
+
+* Viviana:
+
+''Comenzar a hacer'':
+Realizar ajustes resultados de las pruebas de inspección antes de desarrollar y ejecutar las pruebas unitarias.
+Automatizar tareas de gestión de proyectos.
+
+''Más de'':
+Revisión las tareas pendientes para que no se quede trabajo por fuera del ciclo.
+Afianzar la comunicación y el trabajo en equipo.
+Apoyar las actividades de los compañeros
+
+''Seguir haciendo'':
+Realizar la planeación semanal de cada ciclo.
+Utilizar herramientas de colaboración como Google Drive.
+
+''Dejar de hacer'':
+Dejar muchas tareas para el final del ciclo.
+
+''Menos de'':
+Asignación de tareas sin seguimiento y control.
+
+*Ivan:
+
+''Comenzar a hacer'':
+Aportar un poco más al grupo y no concentrarse sólo en mis tareas asignadas.
+
+''Más de'':
+Afianzar la comunicación y el trabajo en equipo.
+Apoyar las actividades de los compañeros
+
+''Seguir haciendo'':
+Reuniones cortas y concisas para revisar el avance de las tareas y las tareas pendientes.
+Comunicarse con los compañeros cuando no funciona el código y arreglarlo.
+revisar constantemente Sonar para corregir issues.
+Estar pendiente del avance de todas las tareas del ciclo.
+
+''Dejar de hacer'':
+Dejar de empezar la mayor parte de tareas al final del ciclo
+Dejar de subir código con errores o bugs
+
+''Menos de'':
+Comunicarnos entre los compañeros hasta esperar a la reunión, podemos estar comunicándonos constantemente para solucionar dudas y problemas.
+
+* Camilo:
+ 
+''Comenzar a hacer'':
+Utilizar los pull request en lugar de subir directo a Master.
+Revisar los pull request de mis compañeros y dar comentarios pertinentes.
+Utilizar Travis.
+''Más de'':
+Pruebas de integración.
+Liderazgo y voluntariado para hacer más tareas.
+Revisar SonarQube.
+Probar los test individualmente, una vez se hacen.
+
+''Seguir haciendo'':
+Pruebas unitarias.
+Cumplir con todas mis tareas.
+Registrar tiempos y estados en YouTrack.
+Bajar la deuda técnica.
+Asistir a todas las reuniones propuestas por el equipo.
+
+''Dejar de hacer'':
+Dejar tanto trabajo acumularse para la última semana del ciclo.
+Estimar tareas sin pensarlo a conciencia.
+Bloquear a mis compañeros por no completar tareas, necesarias para que ellos puedan continuar.
+
+''Menos de'':
+Realizar pruebas sin tener presente que requerimiento se verá afectado con estas.
+Esperar a terminar todas las pruebas para probarlas.
+
+Harold:
+
+''Comenzar a hacer'':
+Inspecciones y revisiones por pares
+Hacer la entrega de los requerimientos a otro compañero.
+Planear siempre tareas de mejora.
+
+''Más de'':
+Inspecciones de código estático.
+Pruebas unitarias, de servicios y de front.
+Automatización de tareas, principalmente administrativas y de cierre de ciclo.
+Seguir haciendo
+Reuniones por skype.
+Planeaciones, seguimiento y control en cada ciclo.
+Dejar de hacer
+Subir código con bajo cubrimiento de pruebas.
+Postergar tareas del ciclo.
+Menos de
+Tareas sin responsable o sin fecha de entrega.
+Jorge:
+Comenzar a hacer:
+Utilizar conjuntamente el set de integración contínua, en especial travis
+Investigación e implementación de pruebas de servicios y front livianas y sin tanta complejidad
+Más de
+Seguimiento de tareas como líder del grupo
+Análisis concienzudo de las herramientas de planeación y seguimiento
+Diligenciamiento de registros del procesos de desarrollo
+Seguir haciendo
+Pruebas unitarias
+Reducción de deuda técnica
+Reuniones periódicas y seguimiento 
+Dejar de hacer
+Código con bajo cubrimiento de pruebas
+Menos de
+Restarle importancia a las tareas y aplazarlas
+Deja tareas de seguimiento para las últimas etapas del proceso
+
