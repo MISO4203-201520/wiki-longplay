@@ -444,15 +444,15 @@ Es muy importante aprender a utilizar las herramientas de control de versiones p
 
 |Responsable|Requerimiento|Front|Servicios|Back|Pruebas Back|Pruebas Servicios|Pruebas Front|
 |-----------|-------------|-----|---------|----|------------|-----------------|-------------|
-|Camilo     |Req 1        |-    |-        |-   |167         |Pruebas Servicios|Pruebas Front|
-|Camilo     |Req 2        |-    |-        |-   |180         |Pruebas Servicios|Pruebas Front|
-|Camilo     |Req 3        |-    |-        |-   |252         |Pruebas Servicios|Pruebas Front|
-|Camilo     |Req 4        |-    |-        |-   |139         |Pruebas Servicios|Pruebas Front|
-|Camilo     |Req 5        |-    |-        |-   |154         |Pruebas Servicios|Pruebas Front|
-|Camilo     |Req 6        |-    |-        |-   |166         |Pruebas Servicios|Pruebas Front|
-|Camilo     |Req 7        |-    |-        |-   |154         |Pruebas Servicios|Pruebas Front|
-|Camilo     |Req 8        |-    |-        |-   |192         |Pruebas Servicios|Pruebas Front|
-|Harold     |Req 16       |60   |45       |35  |80          |Pruebas Servicios|Pruebas Front|
-|Ivan       |Req 17       |62   |-        |-   |-           |Pruebas Servicios|Pruebas Front|
-|Ivan       |Req 18       |56   |-        |-   |-           |Pruebas Servicios|Pruebas Front|
+|Camilo     |Req 1        |-    |-        |-   |167         |220              |-            |
+|Camilo     |Req 2        |-    |-        |-   |180         |230              |-            |
+|Camilo     |Req 3        |-    |-        |-   |252         |-                |-            |
+|Camilo     |Req 4        |-    |-        |-   |139         |225              |-            |
+|Camilo     |Req 5        |-    |-        |-   |154         |-                |-            |
+|Camilo     |Req 6        |-    |-        |-   |166         |-                |-            |
+|Camilo     |Req 7        |-    |-        |-   |154         |229              |-            |
+|Camilo     |Req 8        |-    |-        |-   |192         |223              |-            |
+|Harold     |Req 16       |60   |45       |35  |80          |-                |-            |
+|Ivan       |Req 17       |62   |-        |-   |-           |-                |-            |
+|Ivan       |Req 18       |56   |-        |-   |-           |-                |-            |
 
