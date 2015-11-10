@@ -518,6 +518,15 @@ Cobertura de Líneas = 72,7%
 
 ##### Métricas de proceso
 
+###### Deuda ténica
+
+![](src/c4/deudatecnica4.png?raw=true)
+
+
+###### Cobertura de pruebas
+
+![](src/c4/cobertura4.png?raw=true)
+
 ###### Análisis de valor ganado
 
 
