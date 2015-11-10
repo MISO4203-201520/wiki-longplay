@@ -672,3 +672,18 @@ Subir código sin realizar inspección de código estático.
 Dejar la mayoría de las tareas para la última semana del ciclo.
 No participar activamente en las reuniones.
 No pedir ayuda cuando tengo algún problema desarrollando alguna de mis tareas.
+
+
+##### Lecciones aprendidas y aspectos de mejora
+
+El conjunto de procesos que aprendimos en el curso, nos ayudarán a aumentar la probabilidad de desarrollar proyectos exitosos, especialmente, pero no limitándose al campo del desarrollo de software. Aprendimos no solo a cumplir el objetivo final del proyecto, sino a tener en cuenta el alcance, tiempos y costos previstos, asegurarse de mantenerse entre estos límites, conocer los riesgos que se pueden presentar, y plantear estrategias para mitigarlos.
+
+La calidad del proyecto debe poder ser cuantificable, por lo que el enfoque basado en pruebas, integración continua, control de cambios, y demás estrategias que aplicamos en el proyecto fueron claves para lograr asegurar que se tiene un producto de calidad.
+
+Las metodologías ágiles de Software pueden ser peligrosas si no se aplican con cuidado. Hay que conocer bien los principios y aplicarlos juiciosamente para poder lograr buenos resultados. Uno de los principios más importantes es que el grupo de trabajo conozca bien sus responsabilidades y las de sus compañeros, mantener una comunicación abierta y efectiva, y realizar análisis personales y grupales, constantemente y de manera iterativa, para detectar así problemas de manera temprana y poder solucionarlos en la mayor brevedad posible.
+
+##### Presentación
+
+
+[Presentación](https://docs.google.com/presentation/d/17v8yv4CCnR_Glscm8-HiNvbbQwL1pHckuP5fZAvrulE/edit?usp=sharing)
+
