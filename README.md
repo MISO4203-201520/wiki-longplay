@@ -443,15 +443,16 @@ Es muy importante aprender a utilizar las herramientas de control de versiones p
 ######  Totalizar las nuevas líneas de código incluidas en el ciclo cuatro, separándolas por front, servicios, back y pruebas de cada capa.
 
 |Responsable|Requerimiento|Front|Servicios|Back|Pruebas Back|Pruebas Servicios|Pruebas Front|
-|Camilo|Req 1|-|Servicios|Back|Pruebas Back|Pruebas Servicios|Pruebas Front|
-|Camilo|Req 2|-|Servicios|Back|Pruebas Back|Pruebas Servicios|Pruebas Front|
-|Camilo|Req 3|-|Servicios|Back|Pruebas Back|Pruebas Servicios|Pruebas Front|
-|Camilo|Req 4|-|Servicios|Back|Pruebas Back|Pruebas Servicios|Pruebas Front|
-|Camilo|Req 5|-|Servicios|Back|Pruebas Back|Pruebas Servicios|Pruebas Front|
-|Camilo|Req 6|-|Servicios|Back|Pruebas Back|Pruebas Servicios|Pruebas Front|
-|Camilo|Req 7|-|Servicios|Back|Pruebas Back|Pruebas Servicios|Pruebas Front|
-|Camilo|Req 8|-|Servicios|Back|Pruebas Back|Pruebas Servicios|Pruebas Front|
-|Harold|Req 16|60|Servicios|Back|Pruebas Back|Pruebas Servicios|Pruebas Front|
-|Ivan|Req 17|62|Servicios|Back|Pruebas Back|Pruebas Servicios|Pruebas Front|
-|Ivan|Req 18|56|Servicios|Back|Pruebas Back|Pruebas Servicios|Pruebas Front|
+|-----------|-------------|-----|---------|----|------------|-----------------|-------------|
+|Camilo     |Req 1        |-    |-        |-   |167         |Pruebas Servicios|Pruebas Front|
+|Camilo     |Req 2        |-    |-        |-   |180         |Pruebas Servicios|Pruebas Front|
+|Camilo     |Req 3        |-    |-        |-   |252         |Pruebas Servicios|Pruebas Front|
+|Camilo     |Req 4        |-    |-        |-   |139         |Pruebas Servicios|Pruebas Front|
+|Camilo     |Req 5        |-    |-        |-   |154         |Pruebas Servicios|Pruebas Front|
+|Camilo     |Req 6        |-    |-        |-   |166         |Pruebas Servicios|Pruebas Front|
+|Camilo     |Req 7        |-    |-        |-   |154         |Pruebas Servicios|Pruebas Front|
+|Camilo     |Req 8        |-    |-        |-   |192         |Pruebas Servicios|Pruebas Front|
+|Harold     |Req 16       |60   |45       |35  |80          |Pruebas Servicios|Pruebas Front|
+|Ivan       |Req 17       |62   |-        |-   |-           |Pruebas Servicios|Pruebas Front|
+|Ivan       |Req 18       |56   |-        |-   |-           |Pruebas Servicios|Pruebas Front|
 
