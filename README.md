@@ -602,7 +602,8 @@ Postergar tareas del ciclo.
 **Menos de:**
 Tareas sin responsable o sin fecha de entrega.
 
-*Jorge:
+* Jorge:
+
 **Comenzar a hacer:**
 Utilizar conjuntamente el set de integración contínua, en especial travis
 Investigación e implementación de pruebas de servicios y front livianas y sin tanta complejidad
