@@ -9,7 +9,13 @@ El número de tiendas virtuales de música en Internet se ha incrementado en los
 
 [Reglas de Funcionamiento](#reglas-de-funcionamiento)
 
-[Mitigación de Riesgos](#mitigacion-de-riesgos)
+[Mitigación de Riesgos](#mitigación-de-riesgos)
+
+[Arquitectura](#arquitectura)
+
+[Requerimientos](#requerimientos)
+
+[Plan Global](#plan-global)
 
 [Ciclo 1](#ciclo-1)
 
@@ -193,7 +199,7 @@ Se evidencia que se logro el objetivo de aumentar sobre el 50% el cubrimiento de
 | Ciclo 3 | 29 septiembre | 20 octubre      | 3 semanas |
 | Ciclo 4 | 20 octubre    | 10 Noviembre    | 3 semanas |
 
-### Plan Semanal
+
 #### Ciclo 1 
 ##### Requerimientos Ciclo 1
 | Cod. | Estado | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
