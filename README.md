@@ -482,6 +482,24 @@ Cobertura de Líneas = 72,7%
 |Costo Conformidades|53,5|
 |Costo No Conformidades|5,3|
 
+##### Métricas de proceso
+
+###### Análisis de valor ganado
 
 
+[Valor Ganado](https://docs.google.com/spreadsheets/d/1hHDvo6LaYY1dJhJY9RM-u4D4K7Xa-q4GpMsBNGspgMQ/edit#gid=1872414869)
+
+
+![](src/c4/valorganadograf4.png?raw=true)
+
+En las estimación de ciclo cuatro se encuentran tareas de las distintas etapas del proceso de desarrollo, aunque en este ciclo se quiso dar énfasis en tareas que habían quedado pendientes en las anteriores iteraciones como son pruebas unitarias, además de tareas sugeridas mediante retroalimentación como la mejora del aspecto visual de la aplicación y navegabilidad en las funcionalidades. Luego se la estimación se planearon tareas de los cinco integrantes con un total de 73 horas.
+
+
+![](src/c4/valorganado4.png?raw=true)
+
+###### Productividad del equipo
+
+![](src/c4/valoracumvsgan4.png?raw=true)
+
+Luego de la finalización de la tareas del proceso de desarrollo en comparación con nuestro historias de tareas hubo un desfase por sobreestimación de 27% en la planeación del ciclo, cabe resaltar que con respecto a iteraciones pasadas fue una mejora en nuestro proceso. En este ciclo se cumplieron con todas las tareas planeadas. Para el registro de la planeación y seguimiento se utilizó YouTrack en donde se registra la trazabilidad de las tareas realizadas [Youtrack](http://longplay.myjetbrains.com/youtrack)
 
