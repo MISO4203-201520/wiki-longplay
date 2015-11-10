@@ -3,9 +3,13 @@
 
 El número de tiendas virtuales de música en Internet se ha incrementado en los últimos tiempos pero cada una busca la forma de diferenciarse para atraer distintos nichos de mercado. En esta aplicación se quiere atraer un público que últimamente ha venido creciendo y despertando gran interés para el mercado: los coleccionadores de discos de vinilo o los antiguos "Long Plays".
 
+# Tabla de contenido
+1. [Ciclo 1](#Ciclo 1)
+
+
 ### Roles y Responsabilidades
 
-## Grupo Inicial Ciclo 1 y Ciclo 2
+#### Grupo Inicial Ciclo 1 y Ciclo 2
 | Nombres                       | Correo                        | Rol                  |
 |-------------------------------|-------------------------------|----------------------|
 | Baquero Jiménez Camilo        | c.baquero10@uniandes.edu.co   | Desarrollador        |
@@ -14,7 +18,7 @@ El número de tiendas virtuales de música en Internet se ha incrementado en los
 | Garcia Manrique Juan David    | jd.garcia1381@uniandes.edu.co | Desarrollador        |
 | Patiño Arevalo Juan Daniel    | jd.patino10@uniandes.edu.co   | Desarrollador        |
 
-## Grupo Inicial Ciclo 3 y Ciclo 4
+#### Grupo Inicial Ciclo 3 y Ciclo 4
 | Nombres                       | Correo                        | Rol                  |
 |-------------------------------|-------------------------------|----------------------|
 | Baquero Jiménez Camilo        | c.baquero10@uniandes.edu.co   | Desarrollador        |
@@ -24,6 +28,7 @@ El número de tiendas virtuales de música en Internet se ha incrementado en los
 | Murcia Romero Harold Leonardo | hl.murcia222@uniandes.edu.co  | Desarrollador        |
 
 ### Reglas de Funcionamiento
+
 #### Reuniones
 La comunicación en el grupo se realizará por medio de:
 * Constantemente por el grupo de WhatsApp.
@@ -64,6 +69,7 @@ La comunicación en el grupo se realizará por medio de:
   * Tener una comunicación permanente para identificar los problemas que surjan durante el nuevo ciclo del proyecto.
 
 ### Arquitectura
+
 #### Vista Funcional
 ![](src/img/vista_funcional.PNG?raw=true)
 
