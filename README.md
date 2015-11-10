@@ -4,7 +4,7 @@
 El número de tiendas virtuales de música en Internet se ha incrementado en los últimos tiempos pero cada una busca la forma de diferenciarse para atraer distintos nichos de mercado. En esta aplicación se quiere atraer un público que últimamente ha venido creciendo y despertando gran interés para el mercado: los coleccionadores de discos de vinilo o los antiguos "Long Plays".
 
 # Tabla de contenido
-1. [Ciclo 1](#Ciclo 1)
+1. [Ciclo 1](#ciclo-1)
 
 
 ### Roles y Responsabilidades
