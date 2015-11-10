@@ -6,9 +6,13 @@ El número de tiendas virtuales de música en Internet se ha incrementado en los
 ### Tabla de contenido
 
 [Roles y Responsabilidades](#roles-y-responsabilidades)
+
 [Ciclo 1](#ciclo-1)
+
 [Ciclo 2](#ciclo-2)
+
 [Ciclo 3](#ciclo-3)
+
 [Ciclo 4](#ciclo-4)
 
 ### Roles y Responsabilidades
