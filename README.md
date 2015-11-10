@@ -624,3 +624,51 @@ Código con bajo cubrimiento de pruebas
 Restarle importancia a las tareas y aplazarlas
 Deja tareas de seguimiento para las últimas etapas del proceso
 
+###### Reflexión grupal
+
+* **Comenzar a hacer:**
+Desarrollar las pruebas de servicios y funcionales que garanticen el correcto comportamiento del sistema.
+Construir código que tenga en cuenta el plan de calidad de Sonar con el fin de dar cumplimiento a las reglas de complejidad,  duplicidad de código, mantenibilidad, documentación, etc.
+Notificar al equipo cuando se suban cambios relevantes al repositorio de código fuente.
+Rotar de responsable la actividad de la deuda técnica, para que así todos tengan mucho más presentes los perfiles de calidad y eviten incurrir en no conformidades en sus desarrollos.
+
+* **Más de:**
+Mantener una comunicación efectiva con el equipo.
+Automatización de tareas, bien sea administrativas o del desarrollo mismo del software.
+Seguir haciendo
+Registrar la matriz de trazabilidad para los nuevos requerimientos desarrollados.
+Cumplir con las tareas asignadas.
+
+* **Dejar de hacer**
+Subir pruebas al repositorio sin éxito de ejecución.
+Subir código sin probar.
+Subir código sin realizar inspección de código estático.
+
+* **Menos de**
+Dejar la mayoría de las tareas para la última semana del ciclo.
+No participar activamente en las reuniones.
+No pedir ayuda cuando tengo algún problema desarrollando alguna de mis tareas.
+
+* **Comenzar a hacer:**
+Desarrollar las pruebas de servicios y funcionales que garanticen el correcto comportamiento del sistema.
+Construir código que tenga en cuenta el plan de calidad de Sonar con el fin de dar cumplimiento a las reglas de complejidad,  duplicidad de código, mantenibilidad, documentación, etc.
+Notificar al equipo cuando se suban cambios relevantes al repositorio de código fuente.
+Rotar de responsable la actividad de la deuda técnica, para que así todos tengan mucho más presentes los perfiles de calidad y eviten incurrir en no conformidades en sus desarrollos.
+
+* **Más de**
+Mantener una comunicación efectiva con el equipo.
+Automatización de tareas, bien sea administrativas o del desarrollo mismo del software.
+
+* **Seguir haciendo**
+Registrar la matriz de trazabilidad para los nuevos requerimientos desarrollados.
+Cumplir con las tareas asignadas.
+
+* **Dejar de hacer**
+Subir pruebas al repositorio sin éxito de ejecución.
+Subir código sin probar.
+Subir código sin realizar inspección de código estático.
+
+* **Menos de**
+Dejar la mayoría de las tareas para la última semana del ciclo.
+No participar activamente en las reuniones.
+No pedir ayuda cuando tengo algún problema desarrollando alguna de mis tareas.
