@@ -451,6 +451,14 @@ Es muy importante aprender a utilizar las herramientas de control de versiones p
 
 #### Ciclo 4
 
+##### Requerimientos
+
+|Requerimiento|Responsable|
+|-------------|-----------|
+|R16: Presentar el top de los tres álbumes más vendidos en la tienda a la fecha de consulta. El top debe ser visible a primera vista por el usuario.|Harold|
+|R17: Presentar la opción de compartir en Redes Sociales cada Disco de Vinilo.|Ivan|
+|R18: Presentar el detalle de cada Disco de Vinilo en una ventana emergente de fácil uso. Esto permitirá mejorar la presentación del Catálogo y que el usuario tenga toda la información de un disco en un solo sitio. |Ivan|
+
 ##### Análisis resultados de la encuestas (individual)
 
 * **Viviana**: En general los resultados de la encuesta han sido positivos. Creo que debo mejorar la comunicación con el equipo de trabajo, sobre todo para ayudar a liderar de mejorar manera el proyecto, en búsqueda de cumplir con los objetivos del proyecto.
