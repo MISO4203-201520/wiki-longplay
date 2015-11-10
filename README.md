@@ -427,15 +427,15 @@ Es muy importante aprender a utilizar las herramientas de control de versiones p
 
 ##### Análisis resultados de la encuestas (individual)
 
-* Viviana: En general los resultados de la encuesta han sido positivos. Creo que debo mejorar la comunicación con el equipo de trabajo, sobre todo para ayudar a liderar de mejorar manera el proyecto, en búsqueda de cumplir con los objetivos del proyecto.
+* **Viviana**: En general los resultados de la encuesta han sido positivos. Creo que debo mejorar la comunicación con el equipo de trabajo, sobre todo para ayudar a liderar de mejorar manera el proyecto, en búsqueda de cumplir con los objetivos del proyecto.
 
-* Ivan: En este ciclo mis compañeros han visto mi trabajo y han notado que he   estado pendiente de las entregas y las reuniones, además mis compañeros han apreciado mi trabajo en equipo, mi esfuerzo y mi colaboración. Por mejorar mis compañeros señalan que me falta participar un poco más en las reuniones y adicionalmente revisar bien los ajustes cuando subo cambios al repositorio. Además debo mejorar la comunicación con los demás compañeros del grupo y presentar mayor liderazgo.
+* **Ivan**: En este ciclo mis compañeros han visto mi trabajo y han notado que he   estado pendiente de las entregas y las reuniones, además mis compañeros han apreciado mi trabajo en equipo, mi esfuerzo y mi colaboración. Por mejorar mis compañeros señalan que me falta participar un poco más en las reuniones y adicionalmente revisar bien los ajustes cuando subo cambios al repositorio. Además debo mejorar la comunicación con los demás compañeros del grupo y presentar mayor liderazgo.
 
-* Jorge: Esta iteración se me ha notado un poco disperso, necesito empoderar más las actividades del grupo y velar por que el objetivo del grupo se cumpla. Debo tener cuidado con los cambios que subo al repositorio ya que esta iteración tuve inconvenientes.
+* **Jorge**: Esta iteración se me ha notado un poco disperso, necesito empoderar más las actividades del grupo y velar por que el objetivo del grupo se cumpla. Debo tener cuidado con los cambios que subo al repositorio ya que esta iteración tuve inconvenientes.
 
-* Camilo: Mis compañeros han valorado y apreciado el esfuerzo que he puesto en el trabajo. A pesar de no haber tomado un papel de liderazgo en el equipo, el asistir con puntualidad y disposición a las reuniones, ser receptivo a las instrucciones que se me daban, me permitió cumplir con todas mis tareas, a tiempo y con calidad. Se me había recomendado tener más cuidado al momento de subir cambios al repositorio, pues había afectado el trabajo de mis compañeros. Pero en este último ciclo se notó una mejoría en este aspecto. Debo mejorar un poco la comunicación con el equipo también.
+* **Camilo**: Mis compañeros han valorado y apreciado el esfuerzo que he puesto en el trabajo. A pesar de no haber tomado un papel de liderazgo en el equipo, el asistir con puntualidad y disposición a las reuniones, ser receptivo a las instrucciones que se me daban, me permitió cumplir con todas mis tareas, a tiempo y con calidad. Se me había recomendado tener más cuidado al momento de subir cambios al repositorio, pues había afectado el trabajo de mis compañeros. Pero en este último ciclo se notó una mejoría en este aspecto. Debo mejorar un poco la comunicación con el equipo también.
 
-* Harold:  Al revisar los comentarios de mis compañeros en general encuentro  un balance positivo, sin embargo aún hay es posible mejorar en la parte de la comunicación con mis compañeros, lograr ser más proactivo y dar un mayor aporte al grupo, todo lo anterior con el objetivo de conseguir un equipo autogestionado y enfocado en un mismo objetivo. Por todo lo demás el grupo se encuentra a gusto con el compromiso que he mostrado, la puntualidad y dedicación impuesta en cada tarea de los ciclos de trabajo.
+* **Harold**:  Al revisar los comentarios de mis compañeros en general encuentro  un balance positivo, sin embargo aún hay es posible mejorar en la parte de la comunicación con mis compañeros, lograr ser más proactivo y dar un mayor aporte al grupo, todo lo anterior con el objetivo de conseguir un equipo autogestionado y enfocado en un mismo objetivo. Por todo lo demás el grupo se encuentra a gusto con el compromiso que he mostrado, la puntualidad y dedicación impuesta en cada tarea de los ciclos de trabajo.
 
 
 ##### Métricas del producto
@@ -528,7 +528,7 @@ Dejar muchas tareas para el final del ciclo.
 **Menos de:**
 Asignación de tareas sin seguimiento y control.
 
-*Ivan:
+* Ivan:
 
 **Comenzar a hacer:**
 Aportar un poco más al grupo y no concentrarse sólo en mis tareas asignadas.
@@ -579,7 +579,7 @@ Bloquear a mis compañeros por no completar tareas, necesarias para que ellos pu
 Realizar pruebas sin tener presente que requerimiento se verá afectado con estas.
 Esperar a terminar todas las pruebas para probarlas.
 
-Harold:
+* Harold:
 
 **Comenzar a hacer:**
 Inspecciones y revisiones por pares
