@@ -7,6 +7,10 @@ El número de tiendas virtuales de música en Internet se ha incrementado en los
 
 [Roles y Responsabilidades](#roles-y-responsabilidades)
 
+[Reglas de Funcionamiento](#reglas-de-funcionamiento)
+
+[Mitigación de Riesgos](#mitigacion-de-riesgos)
+
 [Ciclo 1](#ciclo-1)
 
 [Ciclo 2](#ciclo-2)
