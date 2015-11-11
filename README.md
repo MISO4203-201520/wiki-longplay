@@ -731,3 +731,7 @@ Las metodologías ágiles de Software pueden ser peligrosas si no se aplican con
 
 [Presentación](https://docs.google.com/presentation/d/17v8yv4CCnR_Glscm8-HiNvbbQwL1pHckuP5fZAvrulE/edit?usp=sharing)
 
+##### Automatización de reporte de costo de la calidad
+
+
+https://drive.google.com/file/d/0Bx5yU89pi1SNOGtBTG9LNl9UVUE/view?usp=sharing
