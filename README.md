@@ -726,12 +726,12 @@ La calidad del proyecto debe poder ser cuantificable, por lo que el enfoque basa
 
 Las metodologías ágiles de Software pueden ser peligrosas si no se aplican con cuidado. Hay que conocer bien los principios y aplicarlos juiciosamente para poder lograr buenos resultados. Uno de los principios más importantes es que el grupo de trabajo conozca bien sus responsabilidades y las de sus compañeros, mantener una comunicación abierta y efectiva, y realizar análisis personales y grupales, constantemente y de manera iterativa, para detectar así problemas de manera temprana y poder solucionarlos en la mayor brevedad posible.
 
-##### Presentación
+##### Presentación:
 
 
 [Presentación](https://docs.google.com/presentation/d/17v8yv4CCnR_Glscm8-HiNvbbQwL1pHckuP5fZAvrulE/edit?usp=sharing)
 
-##### Automatización de reporte de costo de la calidad
+##### Guía de automatización de reporte de costo de la calidad:
 
 
 https://drive.google.com/file/d/0Bx5yU89pi1SNOGtBTG9LNl9UVUE/view?usp=sharing
